@@ -7,8 +7,8 @@ __pycache__/
 
 # Outputs
 outputs/models/*.joblib
-outputs/figures/
-git add outputs/figures/box_Age_vs_attrition.png
+#outputs/figures/
+#git add outputs/figures/box_Age_vs_attrition.png
 
 
 
