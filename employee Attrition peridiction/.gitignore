@@ -8,8 +8,8 @@ __pycache__/
 # Outputs
 outputs/models/*.joblib
 outputs/figures/
-git add outputs/figures/sample_eda_plot.png
-git add outputs/models/sample_model_readme.txt
+git add outputs/figures/box_Age_vs_attrition.png
+
 
 
 # Notebook checkpoints
